@@ -11,7 +11,7 @@ function addAndRemove(cmdList) {
         index ++;
     });
 
-    let output = result.length >= 1 ? result.join("\n") : "Empty"
+    let output = result.length >= 1 ? result.join("\n") : "Empty";
     console.log(output);
 }
 
