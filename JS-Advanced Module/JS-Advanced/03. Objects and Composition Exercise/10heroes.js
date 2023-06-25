@@ -24,7 +24,7 @@ function heroes() {
   
     // Fighter object
     const fighterHero = {
-      // proto for mage
+      // proto for fighter
       fightProto: {
         fight: function () {
           this.stamina -= 1;
