@@ -1,0 +1,35 @@
+body {
+    background-color: crimson;
+    font-family: Arial;
+}
+
+h1,
+h2 {
+    text-align: center;
+    margin: 0;
+}
+
+.fancy-text {
+    font-style: italic;
+    text-decoration: underline;
+}
+
+p.fancy-text {
+    color: aqua;
+}
+
+#specific-paragraph {
+    color: blue;
+    background-color: #AAA;
+}
+
+a {
+    display: block;
+}
+
+.main-navigation a {
+    display: inline;
+    margin-left: 10px;
+    color: greenyellow;
+    font-weight: bold;
+}
